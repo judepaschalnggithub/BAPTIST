@@ -1,0 +1,65 @@
+table, td, th{
+
+    
+    border-collapse: collapse;
+    
+    
+    
+}
+
+th{
+    background-color:greenyellow;
+}
+
+h1{
+    font-size: 20px;
+    text-align:center;
+    color: blue;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+.image{
+    flex-basis: 1%
+
+}
+
+.text{
+    font-size: 15px;
+    color: orange;
+    padding-left: 10px;
+    padding-top: 50%
+    float: left;
+}
+
+p{
+    text-align: center;
+    font-size: 15px;
+    
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+    
+h1{
+    color: green 
+}
+
+.house{
+    text-align: center;
+}
+
+.fan{
+    text-align: center;
+}
+
+
+
